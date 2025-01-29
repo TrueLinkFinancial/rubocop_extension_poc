@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require "rubocop_extension_poc"
+
+puts "Running rubocop_extension_poc..."
+RubocopExtensionPoc.call
